@@ -1,7 +1,6 @@
 # Diagrama de flujo
 ![alt text](image.png)
 
-
 ## Guia de Intalacion
 
 para poder ver el proyecto primero deberas seguir estos pasos para descargar y ejecutar el programa en tu computadora.
