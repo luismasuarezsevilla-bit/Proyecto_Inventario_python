@@ -46,7 +46,7 @@ puedes hacerlo de dos formas como mas te convenga
 
 Si tienes Git instalado, abre la terminar y copias este url
 
-    ...
+    https://github.com/luismasuarezsevilla-bit/Proyecto_Inventario_python.git
 
 #### Despues abres la carpeta del proyecto
 
