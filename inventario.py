@@ -1,7 +1,7 @@
 # Este bucle se repite hasta que el usuario ingrese un nombre válido. 
 while True:
     nombre = input("Ingrese el nombre del producto: ")
-    if nombre.replace ("  ", "").isalpha():
+    if not nombre.replace ("  ", "").isalpha():
         print("Error: el nombre del producto no puede ser un número.")
     else:
         break
